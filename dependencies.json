@@ -1,0 +1,7 @@
+{
+  "deepflow": {
+    "url": "https://github.com/saidwafiq/deepflow",
+    "commit": "122b53859786d628933b6c08d39d66afa549ef0a",
+    "entry": "src/commands/df/discover.md"
+  }
+}
